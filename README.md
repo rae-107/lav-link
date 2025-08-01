@@ -8,12 +8,12 @@
 </div>
 
   <p align="center">
-    <a href="https://github.com/smithkirsten/lav-link"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rae-107/lav-link"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/smithkirsten/lav-link/issues">Report Bug</a>
+    <a href="https://github.com/rae-107/lav-link/issues">Report Bug</a>
     ·
-    <a href="https://github.com/smithkirsten/lav-link/issues">Request Feature</a>
+    <a href="https://github.com/rae-107/lav-link/issues">Request Feature</a>
   </p>
 
 </div>
@@ -56,10 +56,10 @@ A mobile-first design means this app is designed to work on any phone, but has a
 
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
 
-1. Fork the Repo from the [Repository](https://github.com/smithkirsten/lav-link)
+1. Fork the Repo from the [Repository](https://github.com/rae-107/lav-link)
 2. Clone the repo
    ```sh
-   git clone git@github.com:smithkirsten/lav-link.git
+   git clone git@github.com:rae-107/lav-link.git
    ```
 3. Install NPM packages
    ```sh
@@ -78,18 +78,7 @@ A mobile-first design means this app is designed to work on any phone, but has a
   
 ## Deployed Link
 
-[Click here to view deployed app on Vercel](https://lav-link-smithkirsten.vercel.app/)
-
----
-
-## Preview of App:
-[//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
-
- 
- ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/113261334/221386610-b01bd089-a587-49bf-bd4d-c2ef6916606f.gif)
-
-
-  
+[Click here to view deployed app on Vercel](https://lav-link-ptt2.vercel.app/)
 
 ---
 
